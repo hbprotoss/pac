@@ -93,6 +93,9 @@ var rules = [
             "zhongsou.com"
         ],
         [
+	    "cloudera.com",
+	    "fontawesome.com",
+	    "google-analytics.com",
             "030buy.com",
             "0rz.tw",
             "1-apple.com.tw",
