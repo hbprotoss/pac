@@ -5587,7 +5587,7 @@ function FindProxyForURL(url, host) {
         if (ret != undefined)
             return ret;
     }
-    return 'DIRECT';
+    return proxy;
 }
 
 function testHost(host, index) {
